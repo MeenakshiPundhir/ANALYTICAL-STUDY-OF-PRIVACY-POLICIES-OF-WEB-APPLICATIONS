@@ -1,0 +1,5 @@
+Certainly! Here's a refined project description based on the detailed analysis you provided:
+
+---
+
+This project presents an analytical evaluation of the privacy policies of 20 widely used web applications, including Zomato, Pizza Hut, Meesho, Flipkart, and Groww, with a focus on their compliance with key data protection frameworks such as GDPR, CCPA, and PCI DSS. The analysis covered aspects like cookie usage, data security, tracking mechanisms, opt-out provisions, and protection for minors. Findings revealed that several platforms lacked clear cookie policies, did not offer opt-out choices, and demonstrated weak data protection measures. Notably, applications like Meesho, Flipkart, and Turbo VPN showed major gaps in transparency and legal compliance. The absence of consent mechanisms and non-disclosure of tracking practices highlighted significant privacy risks. Based on these findings, the study recommends enhancing user awareness, enforcing explicit cookie notices, and implementing stronger data security protocols to ensure regulatory alignment and rebuild user trust.
